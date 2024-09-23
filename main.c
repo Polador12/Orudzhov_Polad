@@ -7,6 +7,7 @@ int main(void) {
     scanf("%d", &A);
     printf("Задайте число B ");
     scanf("%d", &B);
+}
 
     printf("%d\n", a - b);
 
