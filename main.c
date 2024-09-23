@@ -2,6 +2,10 @@
 
 
 int main(void) {
-    printf("Hello, Everyone!\n");
+    int A, B;
+    printf("Задайте число A ");
+    scanf("%d", &A);
+    printf("Задайте число B ");
+    scanf("%d", &B);
 
     return 0;
