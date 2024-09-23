@@ -8,4 +8,6 @@ int main(void) {
     printf("Задайте число B ");
     scanf("%d", &B);
 
+    printf("%d\n", a + b);
+
     return 0;
